@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tomastakacs.taskschedulingtool.DetailedTaskActivity">
+    <item
+        android:id="@+id/action_completerestoretask"
+        android:orderInCategory="100"
+        android:title="Complete/Restore Task"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_deletetask"
+        android:orderInCategory="100"
+        android:title="Delete Task"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_savechanges"
+        android:orderInCategory="100"
+        android:title="Save Changes"
+        app:showAsAction="never" />
+</menu>

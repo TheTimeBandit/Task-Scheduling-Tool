@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Scheduling Tool</string>
+    <string name="action_settings">Settings</string>
+    <string name="date_format_fill">%d.%d.%d</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="time_format_fill">%s:%s</string>
+    <string name="time_format">hh:mm</string>
+    <string name="internal_storage_filename">tasksListFile</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorPrimary">#5d68a4</color>
+    <color name="colorPrimaryDark">#475081</color>
+    <color name="colorAccent">#5d68a4</color>
+    <color name="TaskDefault">#f4f4f4</color>
+    <color name="TaskDeadlineToday">#ffa000</color>
+    <color name="TaskDeadlineAfter">#e53935</color>
+    <color name="TaskCompleted">#4caf50</color>
+    <color name="BackgroundLightGray">#e9e9ee</color>
+    <color name="TaskDeadlineTomorrow">#fdd835</color>
+    <color name="DeadlineButtonText">#0786b1</color>
+    <color name="ActionButtonRed">#5d68a4</color>
+</resources>
